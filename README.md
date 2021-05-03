@@ -1,4 +1,3 @@
-# hello-world
+# Farm project
 
-Hello future me, this is Juan. While I'm just starting to learn what all this is, 
-I hope I come back seeing this in a place of success, whatever that means.
+This project was an application of a load bearing problem. The general purpose of the project is to add animals uniformly to multiple barns, and similarly break barns down if capacity gets low enough that animals can be placed into a smaller number of barns.
